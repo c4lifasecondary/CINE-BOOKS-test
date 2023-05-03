@@ -1,0 +1,17 @@
+{
+  "name": "cinebooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "open-test": "npx cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.11.0",
+    "cypress-real-events": "^1.7.6"
+  }
+}
